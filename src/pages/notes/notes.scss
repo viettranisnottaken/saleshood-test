@@ -1,0 +1,11 @@
+@import '/src/assets/styles/util';
+
+.notes-container {
+  max-height: 500px;
+  overflow: auto;
+}
+
+.note-input-container {
+  display: flex;
+  max-width: 634px;
+}

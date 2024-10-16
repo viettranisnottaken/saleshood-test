@@ -1,0 +1,12 @@
+@import '/src/assets/styles/variables';
+@import '/src/assets/styles/util';
+
+.note {
+  max-width: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  border: 1px solid $secondary-color;
+}
